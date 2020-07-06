@@ -7,3 +7,5 @@
 1.Tree is empty.
 2.Tree has > 15 nodes and not balanced.
 3.Tree has > 15 nodes and balanced. 
+
+<img src="example_binary_balanced.png">
