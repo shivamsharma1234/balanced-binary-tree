@@ -4,8 +4,9 @@
 
 <p>Write a program to check if a binary tree is Balanced. Display the tree in the terminal output with the result for below inputs-</p>
 
-1.Tree is empty.
-2.Tree has > 15 nodes and not balanced.
-3.Tree has > 15 nodes and balanced. 
+<p>1.Tree is empty.</p>
+<p>2.Tree has > 15 nodes and not balanced.</p>
+<p>3.Tree has > 15 nodes and balanced. </p>
 
+<h3>Example of balanced and unbalanced binary tree:</h3>
 <img src="example_binary_balanced.png">
